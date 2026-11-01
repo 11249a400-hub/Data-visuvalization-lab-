@@ -1,9 +1,9 @@
 Aim:
-
 To create a student dataset using Pandas and visualize students' Mathematics and Science 
 marks using a line graph with Matplotlib.
 
-Algorithm
+Algorithm:
+
 1. Start the program.
 2. Import the Pandas library as pd.
 3. Import the NumPy library as np.
